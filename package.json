@@ -9,6 +9,7 @@
   "author": "Vladyslav Tokar",
   "license": "MIT",
   "dependencies": {
+    "@nestjs/cli": "^10.3.2",
     "express": "^4.19.2"
   }
 }
